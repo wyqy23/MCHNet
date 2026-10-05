@@ -1,17 +1,17 @@
-# MINDNet
+# MCHNet
 
-Official implementation of **MINDNet**.
+Official implementation of **MCHNet**.
 
 ## Introduction
 The code will be publicly available upon acceptance of the paper.
 
 ## Datasets
 
-Eight public datasets are used for evaluation.
+Six public datasets are used for evaluation.
 
 ## Results
 
-MINDNet achieves superior performance compared with existing methods.
+MCHNet achieves superior performance compared with existing methods.
 
 ## Usage
 
